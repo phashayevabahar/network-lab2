@@ -1,4 +1,4 @@
-# Network laboratory-1
+# Network laboratory-2
 ### In this lab, we finded the MAC address of the network adapter with `getmac` method.  
 
 
